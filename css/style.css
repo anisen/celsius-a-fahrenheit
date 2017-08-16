@@ -1,10 +1,27 @@
 table, th, td {
-    border: 1px solid #3B3B3B;
+    border: 1px solid #00261D;
 }
 table{
 	margin-left: 40%
 }
+h2{
+	margin-left: 35%;
+	color: #00261D;
+	font-size: 30px;
+}
 body{
-	background-color: #90ADC2;
+	background-color: #BD9B2D;
 	width: 100%;
+}
+input{
+	background-color: #F0C543;
+}
+button{
+	border-style: none;
+	border-radius: 7px;
+	padding: 10px;
+	margin-top: 50px;
+	margin-left: 41%;
+	background-color: #00261D;
+	color: white;
 }
